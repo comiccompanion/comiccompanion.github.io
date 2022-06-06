@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+nav li,
+footer li {
+  list-style: none;
+  display: inline-block;
+}
+
+#title {
+  text-align: center;
+}
