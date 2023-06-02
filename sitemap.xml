@@ -2,16 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://comiccompanion.cc/post/my-second-post/</loc>
-    <lastmod>2023-06-02T10:48:36+01:00</lastmod>
-  </url><url>
-    <loc>https://comiccompanion.cc/post/</loc>
-    <lastmod>2023-06-02T10:48:36+01:00</lastmod>
+    <loc>https://comiccompanion.cc/blog/</loc>
+    <lastmod>2023-06-02T10:16:38+01:00</lastmod>
   </url><url>
     <loc>https://comiccompanion.cc/</loc>
     <lastmod>2023-06-02T10:16:38+01:00</lastmod>
   </url><url>
-    <loc>https://comiccompanion.cc/post/my-first-post/</loc>
+    <loc>https://comiccompanion.cc/blog/2023/06/welcome-to-comiccompanion.cc/</loc>
     <lastmod>2023-06-02T10:16:38+01:00</lastmod>
   </url><url>
     <loc>https://comiccompanion.cc/categories/</loc>
